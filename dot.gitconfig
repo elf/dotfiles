@@ -1,0 +1,10 @@
+[user]
+    email = elf@poyo.jp
+    name = Tadashi Jokagi
+
+[color]
+    status = auto
+    diff = auto
+    branch = auto
+    interactive = auto
+    grep = auto
