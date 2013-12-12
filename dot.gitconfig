@@ -8,3 +8,5 @@
     branch = auto
     interactive = auto
     grep = auto
+[merge]
+	ff = false
